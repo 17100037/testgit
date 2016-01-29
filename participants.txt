@@ -2,6 +2,7 @@ Finance team
 -Charles
 -Lisa
 -John
+
 -Stacy
 -Alexander
 Marketing team
@@ -9,4 +10,3 @@ Marketing team
 -Linda
 -Patricia
 -Morgan
-
